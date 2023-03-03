@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-
+////
 
 class CustomColumn extends StatelessWidget {
   const CustomColumn({super.key, required this.text});
